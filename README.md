@@ -1,3 +1,7 @@
+note from lexaone:
+this is cloned version of https://github.com/higemaru/scad/blob/main/retroid-pocket5-stick/README.md
+this thumb stick cap fits well on retroid pocket 4
+
 # Retroid Pocket 5 thumb stick
 
 Thumb Stick Cap for [Retroid Pocket 5](https://www.goretroid.com/products/retroid-pocket-5-handheld) (Replace the original parts).
